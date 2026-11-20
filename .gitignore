@@ -1,0 +1,8 @@
+Client/Unpatched/ # for legal resons we cant include the patched cient or unpached, i dont want this repo taken down
+Client/Patched/
+build/
+Server/Backend/backend
+Server/Backend/backend.exe
+Launcher/vetrablox-launcher
+Launcher/launcher.exe
+*.o

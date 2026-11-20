@@ -1,0 +1,5 @@
+local player = game:service("Players"):CreateLocalPlayer(0)
+player:SetSuperSafeChat(false)
+game:service("Visit"):SetUploadUrl("")
+game:service("RunService"):Run()
+player:LoadCharacter()
